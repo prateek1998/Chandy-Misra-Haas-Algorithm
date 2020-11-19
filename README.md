@@ -11,7 +11,7 @@ The files are compiled using any online C++ editor or using Visual Studio Code.
 
 **---Execution instructions---**
 
-Execute the code directly from Chandy-Misra-Haas-OR.cpp.exe file in your Windows OS.
+Execute the code directly from Chandy-Misra-Haas-OR.exe file in your Windows OS.
 
 Enter the number of proccesses --------------input an integer value greater than 1
 
